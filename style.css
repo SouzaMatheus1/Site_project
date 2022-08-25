@@ -1,6 +1,7 @@
 *{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 8vh;
+    font-size: 4vh;
+    color: rgb(80, 0, 155);
 }
 
 body{
@@ -9,7 +10,7 @@ body{
 
 main{
     background-color: white;
-    width: 500;
+    width: 500px;
     margin: auto;
     padding: 2%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
